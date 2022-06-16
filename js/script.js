@@ -74,7 +74,6 @@ function randomArrayGeneretor(minRange, maxRange, guessNumber) {
       randomArrey.push(randomPosition)
     }
   }
-
   return randomArrey;
 }
 
